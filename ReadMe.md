@@ -3,7 +3,7 @@
 
 
 # Sobre mim:
-Olá! Sou Luiz um dos sistemas de apaixonado por idéias transformadoras em soluções digitais. Com habilidades em análise, design e implementação, é sempre um ônibus de negócios que me permite criar e contribuir para projetos inovadores. Vamos codificar juntos!
+Hello! 👋 I am Luiz one of the systems passionate about transformative ideas in digital solutions. With skills in analysis, design and implementation, it is always a business bus that allows me to create and contribute to innovative projects. Let's code together!
 
 
 ## 🌐 Socials:
