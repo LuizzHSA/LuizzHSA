@@ -5,8 +5,6 @@
 # Sobre mim:
 👨‍💻 Software Engineer 
 
-🔠 C1 Advanced English Level
-
 ☁️ 1x UDEMY Certified
 
 📚 Studying solutions for technology that are used in everyday life
