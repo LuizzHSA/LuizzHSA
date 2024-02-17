@@ -3,7 +3,15 @@
 
 
 # Sobre mim:
-Hello! 👋 I am Luiz one of the systems passionate about transformative ideas in digital solutions. With skills in analysis, design and implementation, it is always a business bus that allows me to create and contribute to innovative projects. Let's code together!
+👨‍💻 Software Engineer 
+
+🔠 C1 Advanced English Level
+
+☁️ 1x UDEMY Certified
+
+📚 Studying solutions for technology that are used in everyday life
+
+🎓 Graduated in Systems Analysis and Development at UNINGÁ
 
 
 ## 🌐 Socials:
