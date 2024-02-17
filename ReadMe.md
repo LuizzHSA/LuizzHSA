@@ -1,6 +1,6 @@
 
-##         ![github-header-image (3)](https://github.com/LuizzHSA/LuizzHSA/assets/83151056/1ad16bb9-39cf-4891-951d-a444cc3d29c7)
-
+<code>System.out.println("Welcome to my github!😆")</code>
+<hr>
 
 # Sobre mim:
 👨‍💻 Software Engineer 
