@@ -1,6 +1,5 @@
 
 # <code>System.out.println("Welcome to my github!😆")</code>
-<hr>
 
 
 # Sobre mim:
