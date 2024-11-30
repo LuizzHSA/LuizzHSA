@@ -5,11 +5,11 @@
 # Sobre mim:
 👨‍💻 Software Engineer 
 
-☁️ 1x UDEMY Certified
+☁️ 1x Certificado UDEMY
 
-📚 Studying solutions for technology that are used in everyday life
+📚 Estudar soluções para tecnologia que são utilizadas no dia a dia
 
-🎓 Graduated in Systems Analysis and Development at UNINGÁ
+🎓 Graduado em Análise e Desenvolvimento de Sistemas pela UNINGÁ
 
 
 ## 🌐 Socials:
