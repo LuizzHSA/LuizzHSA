@@ -5,7 +5,7 @@
 # Sobre mim:
 👨‍💻 Software Engineer 
 
-☁️ 2x Certificado UDEMY
+☁️ 3x Certificado UDEMY
 
 📚 Estudar soluções para tecnologia que são utilizadas no dia a dia
 
