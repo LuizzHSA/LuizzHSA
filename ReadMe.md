@@ -29,10 +29,6 @@
 </div>
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LuizzHSA&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=LuizzHSA&theme=blueberry&hide_border=false)<br/>
-
 ### Repo Contribuído Top
 ![](https://github-contributor-stats.vercel.app/api?username=LuizzHSA&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
