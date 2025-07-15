@@ -3,7 +3,7 @@
 
 
 # Sobre mim:
-👨‍💻 Software Engineer 
+👨‍💻 DESENVOLVEDOR FULL STACK 
 
 ☁️ 3x Certificado UDEMY
 
