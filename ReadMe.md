@@ -32,6 +32,5 @@
 
 ### Repo Contribuído Top
 ![](https://github-contributor-stats.vercel.app/api?username=LuizzHSA&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-![ LuizzHSA's Stats](https://github-readme-stats.vercel.app/api?username= LuizzHSA&theme=react&show_icons=true&hide_border=true&count_private=false)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
