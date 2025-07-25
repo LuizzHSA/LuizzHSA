@@ -11,6 +11,10 @@
 
 🎓 Graduado em Análise e Desenvolvimento de Sistemas pela UNINGÁ
 
+<br clear="both">
+
+<h3 align="center">LINGUAGENS E FERRAMENTAS</h3>
+
 ###
 
 <br clear="both">
@@ -38,6 +42,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
+
+###
+
+<br clear="both">
+
+<h3 align="center">SOCIAL</h3>
 
 ###
 
