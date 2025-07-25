@@ -79,10 +79,4 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/LuizzHSA/LuizzHSA/output/snake.svg" alt="Snake animation" />
-
-###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
