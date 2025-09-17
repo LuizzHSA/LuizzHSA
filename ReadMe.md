@@ -3,13 +3,14 @@
 
 
 # Sobre mim:
-👨‍💻 DESENVOLVEDOR FULL STACK 
+<p align="center">
+  💻 Desenvolvedor em formação • 🎓 Graduando em Analise e Desenvolvimento de Sistemas • 🛠 Apaixonado por tecnologia e soluções criativas
+</p>
 
-☁️ 3x Certificado UDEMY
-
-📚 Estudar soluções para tecnologia que são utilizadas no dia a dia
-
-🎓 Graduado em Análise e Desenvolvimento de Sistemas pela UNINGÁ
+<br>🎓 Formado em **Técnico em Informática** *(2021)*
+<br>🎓 Cursando **Analise e Desenvolvimento de Sistemas** *(início em 2022, atualmente no 7º período)*
+<br>🚀 Aprimorando conhecimentos 
+<br> Usuário de **Windows**, entusiasta de **Visual Studio Code** e fluxo de trabalho limpo
 
 <br clear="both">
 
