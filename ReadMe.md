@@ -7,8 +7,7 @@
   💻 Desenvolvedor em formação • 🎓 Graduando em Analise e Desenvolvimento de Sistemas • 🛠 Apaixonado por tecnologia e soluções criativas
 </p>
 
-<br>🎓 Formado em **Técnico em Informática** *(2021)*
-<br>🎓 Cursando **Analise e Desenvolvimento de Sistemas** *(início em 2022, atualmente no 7º período)*
+<br>🎓 Cursando **Analise e Desenvolvimento de Sistemas** *(início em 2022, atualmente no 2 ano)*
 <br>🚀 Aprimorando conhecimentos 
 <br> Usuário de **Windows**, entusiasta de **Visual Studio Code** e fluxo de trabalho limpo
 
