@@ -51,10 +51,4 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<img src="https://raw.githubusercontent.com/LuizzHSA/LuizzHSA/output/snake.svg" alt="Snake animation" />
-
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&reversal=true" />
