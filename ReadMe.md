@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">GitHub:<br><br>Sou estudante de Análise e Desenvolvimento de Sistemas, em processo de consolidação de carreira na área de tecnologia. Tenho foco em desenvolvimento Full Stack, com maior afinidade pelo back-end, lógica de programação e banco de dados. Possuo conhecimentos em Java, JavaScript, SQL e Git/GitHub, aplicando esses conceitos em projetos acadêmicos e pessoais voltados ao aprendizado prático e à evolução técnica contínua. Busco minha primeira oportunidade como desenvolvedor júnior, com mentalidade de longo prazo, disciplina, consistência e foco em entregar código funcional, organizado e em constante melhoria.</p>
+<p align="left"><br>Sou estudante de Análise e Desenvolvimento de Sistemas, em processo de consolidação de carreira na área de tecnologia. Tenho foco em desenvolvimento Full Stack, com maior afinidade pelo back-end, lógica de programação e banco de dados. Possuo conhecimentos em Java, JavaScript, SQL e Git/GitHub, aplicando esses conceitos em projetos acadêmicos e pessoais voltados ao aprendizado prático e à evolução técnica contínua. Busco minha primeira oportunidade como desenvolvedor júnior, com mentalidade de longo prazo, disciplina, consistência e foco em entregar código funcional, organizado e em constante melhoria.</p>
 
 ###
 
