@@ -1,11 +1,4 @@
-<div align="center">
-  <a href="https://www.linkedin.com/in/luizhsa/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="seniorlulu20@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
+<img width="1584" height="396" alt="LUIZ HENRIQUE (2)" src="https://github.com/user-attachments/assets/72e5dc35-0f17-4c1e-9113-e8a5c1777e5f" />
 
 ###
 
@@ -24,31 +17,33 @@
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
+<!--
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,css,html,js,react,figma,firebase,flask,java,jquery,mysql,nodejs,php,express,docker,ps,ai,py,threejs,ts,vercel,vite,tailwind,vscode,visualstudio,dotnet,bootstrap,blender,angular,git" />
+  </a>
+</p>-->
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+###
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Frontend</b><br><img src="https://skillicons.dev/icons?i=react,angular,js,ts,html,css,tailwind,bootstrap" /></td>
+      <td align="center"><b>Backend</b><br><img src="https://skillicons.dev/icons?i=nodejs,mysql,java,php,cs,py" /></td>
+    </tr>
+    <tr>
+      <td align="center"><b>DevOps and Tools</b><br><img src="https://skillicons.dev/icons?i=docker,git,vercel,vscode,idea" /></td>
+    </tr>
+  </table>
 </div>
 
+### 👾 My GitHub Contribution Pacman
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NandaChaves/NandaChaves/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NandaChaves/NandaChaves/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/NandaChaves/NandaChaves/output/pacman-contribution-graph.svg">
+</picture>
+---
 ###
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&reversal=true" />
