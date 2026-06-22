@@ -1,6 +1,4 @@
-<img width="1584" height="396" alt="LUIZ HENRIQUE (2)" src="https://github.com/user-attachments/assets/72e5dc35-0f17-4c1e-9113-e8a5c1777e5f" />
 
-###
 
 <h1 align="center">👨‍💻Luiz Henrique</h1>
 
