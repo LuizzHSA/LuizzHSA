@@ -166,12 +166,12 @@ Currently focused on improving fundamentals, backend development, architecture, 
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=LuizzHSA&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&count_private=true" alt="GitHub statistics" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizzHSA&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=LuizzHSA&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&cache_seconds=86400" alt="GitHub statistics" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizzHSA&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&cache_seconds=86400" alt="Top languages" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LuizzHSA&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=LuizzHSA&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak" />
 
 <br><br>
 
