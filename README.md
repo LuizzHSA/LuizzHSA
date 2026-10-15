@@ -172,14 +172,6 @@ Cross-platform application focused on facilitating **community donations**, conn
 
 ---
 
-### 📚 Biblioteca Virtual
-
-Library management system with features for **books, loans, shelves, authentication, filters, and administrative management**.
-
-**Technologies:** PHP • JavaScript • SQLite • HTML • CSS
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
